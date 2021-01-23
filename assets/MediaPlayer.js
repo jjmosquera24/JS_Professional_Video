@@ -17,3 +17,5 @@ MediaPlayer.prototype.togglePlay = function() {
         this.pause();
     }
 }
+
+export default MediaPlayer;
